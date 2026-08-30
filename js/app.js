@@ -54,6 +54,13 @@ const CONTENT = {
         desc: "Estudio personal de software: producto web, interfaces y herramientas local-first. Diseño + implementación + deploy end-to-end para clientes y proyectos propios.",
       },
       {
+        hash: "t4ll3r",
+        role: "Gerente",
+        company: "Taller Appiolaza",
+        period: "2013 — presente",
+        desc: "Dirección del taller. Servicio oficial Renault, chapa y pintura. Guaymallén.",
+      },
+      {
         hash: "g10m1n",
         role: "Stage · diseño y new media",
         company: "Giò Minola",
@@ -82,6 +89,13 @@ const CONTENT = {
         company: "monarch",
         period: "present",
         desc: "Personal software studio: web products, interfaces, and local-first tools. Design + build + deploy end-to-end for clients and own projects.",
+      },
+      {
+        hash: "t4ll3r",
+        role: "Manager",
+        company: "Taller Appiolaza",
+        period: "2013 — present",
+        desc: "Shop management. Official Renault bodywork and paint. Guaymallén.",
       },
       {
         hash: "g10m1n",
