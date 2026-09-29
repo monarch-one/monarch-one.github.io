@@ -55,10 +55,10 @@ const CONTENT = {
       },
       {
         hash: "t4ll3r",
-        role: "Gerente",
+        role: "Gerente desde 2013",
         company: "Taller Appiolaza",
-        period: "2013 — presente",
-        desc: "Dirección del taller. Servicio oficial Renault, chapa y pintura. Guaymallén.",
+        period: "2010 — presente",
+        desc: "Empresa familiar. Servicio oficial Renault, chapa y pintura. Guaymallén.",
       },
       {
         hash: "g10m1n",
@@ -92,10 +92,10 @@ const CONTENT = {
       },
       {
         hash: "t4ll3r",
-        role: "Manager",
+        role: "Manager since 2013",
         company: "Taller Appiolaza",
-        period: "2013 — present",
-        desc: "Shop management. Official Renault bodywork and paint. Guaymallén.",
+        period: "2010 — present",
+        desc: "Family business. Official Renault bodywork and paint. Guaymallén.",
       },
       {
         hash: "g10m1n",
