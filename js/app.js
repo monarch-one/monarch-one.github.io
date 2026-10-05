@@ -256,6 +256,16 @@ const CONTENT = {
         tags: ["HTML", "Desktop", "Open source"],
         homepage: null,
       },
+      {
+        repo: "ancap-rss",
+        title: "ANCAP RSS",
+        desc: {
+          es: "Lector RSS privado, local-first. App instalable para el celular: tus feeds y lecturas quedan en tu dispositivo, con sync opcional.",
+          en: "Private, local-first RSS reader. Installable phone app: your feeds and reading stay on your device, with optional sync.",
+        },
+        tags: ["PWA", "TypeScript", "Privacy"],
+        homepage: null,
+      },
     ],
   },
 };
